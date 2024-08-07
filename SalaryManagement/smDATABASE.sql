@@ -116,4 +116,5 @@ insert into fund values(1,1000000);
 
 
 commit;
- 
+
+select * from leave
